@@ -31,6 +31,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![output](\Result.png)
+![output](/Circulate-the-values-of-N-variables/)
 ## Result:
+
 Thus the circulating n variables is successfully executed.
