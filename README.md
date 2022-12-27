@@ -31,7 +31,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![output](/circulate)
+![output](/Result.png)
 ## Result:
 
 Thus the circulating n variables is successfully executed.
