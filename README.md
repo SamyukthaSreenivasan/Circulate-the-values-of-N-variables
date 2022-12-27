@@ -20,7 +20,6 @@ Circulate the input for given number of times.
 End the program
 
 ## Program:
-```
 #Program to circulate N values.
 #Developed by: Samyuktha.S
 #RegisterNumber:22005276
@@ -29,9 +28,9 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
-```
+
 ## Output:
-![output](/Result.png)
+![output](/ded.png)
 ## Result:
 
 Thus the circulating n variables is successfully executed.
